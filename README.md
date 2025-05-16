@@ -16,7 +16,7 @@ Web browser (for testing)
 
 #Installation
 
-Clone the repository: git clone https://github.com/your-username/chatbot-application.git
+Clone the repository: git clone https://github.com/FtBunny/ChatBot.git
 Install dependencies: npm install
 Create a new file named config.js and add your Google Cloud Natural Language API key:
 javascript
