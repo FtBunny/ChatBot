@@ -1,4 +1,4 @@
-This is a chatbot application built using JavaScript, HTML, and CSS. It utilizes the Google Cloud Natural Language API to generate responses to user input.
+CHATBOT application built using JavaScript, HTML, and CSS. It utilizes the Google Cloud Natural Language API to generate responses to user input.
 
 #Features
 
