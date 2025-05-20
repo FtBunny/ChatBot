@@ -37,3 +37,4 @@ The chatbot uses the Google Cloud Natural Language API to generate responses. Th
 
 https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent
 The API request body should contain the user's input message and any uploaded files.
+
